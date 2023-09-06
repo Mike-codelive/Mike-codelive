@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mike-codelive
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning WordPress
 - 💞️ I’m looking to collaborate on landing page layouts and WordPress dev
