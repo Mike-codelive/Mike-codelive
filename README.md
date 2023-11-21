@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning WordPress
-- 💞️ I’m looking to collaborate on landing page layouts and WordPress dev
-- 📫 How to reach me on mike-code.tk
+- 📫 How to reach me on
 
 <!---
 Mike-codelive/Mike-codelive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
