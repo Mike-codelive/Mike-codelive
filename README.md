@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning WordPress
+- 🌱 I’m currently learning React
 - 📫 How to reach me on https://mike-codelive.github.io/Portfolio-page/
 
 <!---
